@@ -1,0 +1,5 @@
+<
+OR{0}(0)
+  ARRAY_2D{82}(3, 1), ARRAY_1D{85}(3, 0), MIRROR{98}(3, 1)
+   ⤷ TRANSLATE{99}(0, 3), ROTATE{83}(2, 3)
+>

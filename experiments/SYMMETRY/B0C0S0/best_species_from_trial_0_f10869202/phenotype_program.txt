@@ -1,0 +1,5 @@
+<
+OR{0}(2)
+  MIRROR{42}(2, 1), TRANSLATE{count(46)}(0, 0)
+   ⤷ NOOP
+>

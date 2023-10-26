@@ -1,0 +1,5 @@
+<
+OR{0}(2)
+  MIRROR{4}(0, 3), TRANSLATE{5}(1, 1)
+   ⤷ NOOP
+>

@@ -3,8 +3,8 @@ Project by Nate Gaylinn:
 [email](mailto:nate.gaylinn@gmail.com),
 [blog](https://thinkingwithnate.wordpress.com/)
 
-Built from [https://github.com/ngaylinn/epigenetic-gol-v1-wip](
-https://github.com/ngaylinn/epigenetic-gol-v1-wip) on October 26, 2023. Only
+Built from [https://github.com/ngaylinn/epigenetic-gol-v1](
+https://github.com/ngaylinn/epigenetic-gol-v1) on December 8, 2023. Only
 six of the eight FitnessGoals are used here, because of some unresolved bugs.
 
 This repository holds the results and analysis from a collection of experiments
@@ -13,7 +13,7 @@ Conway's Game of Life. The intent was to use an evolutionary algorithm to
 design the search space for an evolutionary algorithm.
 
 For more information on the motivation, design, and execution of the project
-that produced these results, check out the [README file](https://github.com/ngaylinn/epigenetic-gol-v1-wip/README.md)
+that produced these results, check out the [README file](https://github.com/ngaylinn/epigenetic-gol-v1/README.md)
 for the source repository or this [slide deck](https://docs.google.com/presentation/d/1ZIYj8Rg4xPHukQ-Glk9_IZTgimEYh5dtWsyXrbkX9Dc/edit?usp=sharing).
 
 Overview of files:

@@ -1,0 +1,11 @@
+<
+OR{0}(1)
+  MIRROR{176}(1, 2), CROP{168}(2, 1)
+   ⤷ ROTATE{169}(0, 0)
+OR{195}(1)
+  MIRROR{176}(3, 1), CROP{168}(1, 1)
+   ⤷ ROTATE{169}(0, 0)
+OR{193}(1)
+  MIRROR{176}(3, 1), CROP{168}(2, 1), TRANSLATE{count(194)}(0, 0)
+   ⤷ ROTATE{169}(0, 0)
+>

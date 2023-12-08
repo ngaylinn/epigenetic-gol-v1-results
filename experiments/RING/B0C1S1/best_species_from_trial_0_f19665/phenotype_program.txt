@@ -1,0 +1,8 @@
+<
+OR{0}(2)
+  TRANSLATE{85}(0, 1)
+   ⤷ ROTATE{86}(2, 2)
+OR{84}(3)
+  SCALE{87}(0, 3)
+   ⤷ TRANSLATE{88}(0, 2)
+>

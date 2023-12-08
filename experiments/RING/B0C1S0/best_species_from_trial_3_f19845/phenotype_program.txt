@@ -1,0 +1,5 @@
+<
+OR{0}(1)
+  MIRROR{91}(2, 3), COPY{93}(3, 2), TRANSLATE{count(118)}(0, 0)
+   ⤷ NOOP
+>

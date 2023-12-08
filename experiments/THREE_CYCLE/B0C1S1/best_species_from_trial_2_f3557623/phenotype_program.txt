@@ -1,8 +1,0 @@
-<
-OR{0}(3)
-  CROP{168}(2, 1)
-   ⤷ ROTATE{169}(0, 0), QUARTER{count(190)}(2, 1)
-XOR{167}(2)
-  ARRAY_2D{170}(3, 0)
-   ⤷ TRANSLATE{171}(1, 2)
->

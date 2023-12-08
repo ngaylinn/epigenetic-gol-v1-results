@@ -1,0 +1,8 @@
+<
+OR{0}(0)
+  MIRROR{21}(1, 2), ALIGN{count(130)}(0, 0)
+   ⤷ NOOP
+XOR{20}(2)
+  MIRROR{22}(2, 0), ARRAY_2D{count(128)}(0, 3)
+   ⤷ NOOP
+>

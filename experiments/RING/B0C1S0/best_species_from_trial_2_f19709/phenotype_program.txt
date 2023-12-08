@@ -1,0 +1,8 @@
+<
+OR{0}(0)
+  SCALE{72}(2, 2)
+   ⤷ NOOP
+OR{71}(2)
+  TRANSLATE{73}(1, 0)
+   ⤷ NOOP
+>

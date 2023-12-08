@@ -1,5 +1,0 @@
-<
-OR{0}(2)
-  TRANSLATE{73}(2, 2), COPY{74}(1, 0)
-   ⤷ TRANSLATE{75}(1, 1)
->

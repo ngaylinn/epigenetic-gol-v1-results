@@ -1,8 +1,0 @@
-<
-OR{0}(3)
-  TILE{112}(3, 1), ARRAY_1D{77}(2, 3)
-   ⤷ TRANSLATE{113}(3, 3), TRANSLATE{count(193)}(0, 0), TRANSLATE{count(194)}(0, 0)
-OR{76}(1)
-  TILE{79}(2 ← 992063068, 1)
-   ⤷ ROTATE{80}(0, 3)
->

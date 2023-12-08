@@ -1,0 +1,11 @@
+<
+OR{0}(3)
+  QUARTER{139}(1, 2)
+   ⤷ FLIP{140}(3, 1)
+XOR{138}(0)
+  QUARTER{141}(1, 2), TRANSLATE{count(184)}(0, 0)
+   ⤷ SCALE{142}(0, 3)
+OR{184}(0)
+  ARRAY_1D{141}(1, 2), TRANSLATE{count(184)}(0, 0)
+   ⤷ SCALE{142}(0, 3)
+>

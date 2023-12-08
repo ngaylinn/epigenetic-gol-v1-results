@@ -1,8 +1,0 @@
-<
-OR{0}(0)
-  TRANSLATE{85}(0, 1)
-   ⤷ CROP{86}(0, 2), TRANSLATE{count(194)}(0, 0)
-OR{84}(2)
-  SCALE{87}(3, 3)
-   ⤷ TRANSLATE{88}(1, 2)
->

@@ -1,8 +1,0 @@
-<
-OR{0}(0)
-  TRANSLATE{24}(2, 1)
-   ⤷ QUARTER{25}(0, 2), TRANSLATE{count(196)}(0, 0)
-OR{196}(0)
-  TRANSLATE{24}(2, 1)
-   ⤷ QUARTER{25}(0, 2), TRANSLATE{count(196)}(0, 0)
->

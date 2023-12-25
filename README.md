@@ -13,7 +13,7 @@ Conway's Game of Life. The intent was to use an evolutionary algorithm to
 design the search space for an evolutionary algorithm.
 
 For more information on the motivation, design, and execution of the project
-that produced these results, check out the [README file](https://github.com/ngaylinn/epigenetic-gol-v1/README.md)
+that produced these results, check out the [README file](https://github.com/ngaylinn/epigenetic-gol-v1/blob/main/README.md)
 for the source repository or this [slide deck](https://docs.google.com/presentation/d/1ZIYj8Rg4xPHukQ-Glk9_IZTgimEYh5dtWsyXrbkX9Dc/edit?usp=sharing).
 
 Overview of files:

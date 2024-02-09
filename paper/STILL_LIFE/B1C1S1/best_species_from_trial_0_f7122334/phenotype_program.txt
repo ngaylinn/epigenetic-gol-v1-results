@@ -1,0 +1,8 @@
+<
+OR{0}(1)
+  TILE{162}(0, 2), SCALE{98}(0, 0)
+   ⤷ NOOP
+OR{97}(1)
+  TILE{99}(1, 2), TRANSLATE{count(195)}(0, 0)
+   ⤷ NOOP
+>

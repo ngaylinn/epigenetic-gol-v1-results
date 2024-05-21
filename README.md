@@ -10,7 +10,10 @@ design the search space for an evolutionary algorithm.
 
 For more information on the motivation, design, and execution of the project
 that produced these results, check out the [README file](https://github.com/ngaylinn/epigenetic-gol-v1/blob/main/README.md)
-for the source repository or this [slide deck](https://docs.google.com/presentation/d/1ZIYj8Rg4xPHukQ-Glk9_IZTgimEYh5dtWsyXrbkX9Dc/edit?usp=sharing).
+for the source repository or this [slide deck](https://docs.google.com/presentation/d/1ZIYj8Rg4xPHukQ-Glk9_IZTgimEYh5dtWsyXrbkX9Dc/edit?usp=sharing). For discussion and analysis of
+the results in this repository, check out [this writeup](ANALYSIS.md).
+
+The rest of this file describes the contents of this repository.
 
 This repository actually has two sets of results in two top-level directories.
 The `paper` directory holds all data used for writing the scientific paper for
